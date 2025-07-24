@@ -2,3 +2,5 @@
 /dbdata
 /wordpress
 /logs
+/nginx
+/ssl
